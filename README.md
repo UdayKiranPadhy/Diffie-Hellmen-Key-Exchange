@@ -2,7 +2,8 @@
 Ok, I was studying my examination and I got bored memorising the rotten things And then I saw this Diffie Hellmen Key Exchange Method and understand how this works .
 I have also included a video for understanding in the assets folder , feel free to fork or submit a pull request to the repositatory .
 
-<img scr="/assets/output.png">
+![output](https://user-images.githubusercontent.com/58071209/99244651-64cea800-2828-11eb-8cdc-de9ccaa039b3.png)
+
 
 I wrote a simple python script to derive secret keys for both Alice and Bob based on the video.
 
